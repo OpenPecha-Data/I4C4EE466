@@ -1,0 +1,79 @@
+id: f81a2894377d495ca9bad16a6c1e4e25
+annotation_type: index
+revision: '00001'
+annotations:
+  7e9fdf870ded4586ba4619331353f138:
+    base: 8651.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 15
+    - title: Introduction
+      span:
+        start: 16
+        end: 42
+    - title: §0-10
+      span:
+        start: 43
+        end: 2540
+    - title: §11-20
+      span:
+        start: 2541
+        end: 4286
+    - title: §21-30
+      span:
+        start: 4287
+        end: 5777
+    - title: §31-40
+      span:
+        start: 5778
+        end: 6825
+    - title: §41-50
+      span:
+        start: 6826
+        end: 8462
+    - title: §61-70
+      span:
+        start: 8463
+        end: 10133
+    - title: §71-80
+      span:
+        start: 10134
+        end: 11298
+    - title: §81-90
+      span:
+        start: 11299
+        end: 12920
+    - title: §91-100
+      span:
+        start: 12921
+        end: 14296
+    - title: §101-110
+      span:
+        start: 14297
+        end: 15083
+    - title: §111-120
+      span:
+        start: 15084
+        end: 15921
+    - title: §121-130
+      span:
+        start: 15922
+        end: 17468
+    - title: §130-20
+      span:
+        start: 17469
+        end: 19000
+    - title: §141-150
+      span:
+        start: 19001
+        end: 20163
+    - title: §151-160
+      span:
+        start: 20164
+        end: 21250
+    - title: §161-166
+      span:
+        start: 21251
+        end: 21990
